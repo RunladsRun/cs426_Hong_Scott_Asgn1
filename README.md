@@ -7,3 +7,5 @@ In this game, you can control the BB8 model character by using mouse and WASD ke
 Video Link: https://drive.google.com/file/d/1yS1fRQyoXehmgc0P0UNZIdIAKIImVVvz/view?usp=sharing
 
 An asset used: Free Low Poly Simple Urban City 3D Asset Pack from Draftpunk Studios
+
+Comments: Ember Garfinkle, Ahmad Alkhars
